@@ -5,7 +5,7 @@
 I am Meet, a front-end developer from India.
 I am working with [reactjs](https://react.dev/) and stuff around that. I love to make the web a little bit more beautiful than it was yesterday.
 
-- 🌱 I’m currently learning GSAP animations.
+- 🌱 I’m currently learning to be an agentic dev.
 - 🤔 I’m looking for a good collaboration for work on React JS or around.
 - 💬 Ask me about My Journey so far...I have a lot to say on that 😁
 - 😄 Pronouns: He/Him
