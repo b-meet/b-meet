@@ -7,7 +7,7 @@ I am a Front-end Developer from India dedicated to making the web a little more 
 An open-source suite of high-utility online calculators designed for speed and precision. 
 *Building the future of simple web utilities.*
 
-### Glaze (Coming Soon) 🦄
+### Statuscode (Coming Soon) 🦄
 A high-end "designer layer" for status pages. Integrating interactive motion and premium UI/UX into services like UptimeRobot and Status.io to make system monitoring look as good as the product itself.
 
 ## ✍️ Writing
