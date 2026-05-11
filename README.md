@@ -3,7 +3,7 @@ I am a MERN stack Developer from India, making the web a little more beautiful t
 
 ## 🚀 Projects & Products
 
-### [CalcSuite](https://calcsuite.in)
+### [Calc suite](https://calcsuite.in)
 Know if your career is AI-resilient before the market decides for you.. 
 *Forget the past, cluttered web utilities.*
 
