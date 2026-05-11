@@ -17,6 +17,7 @@ A high-end "designer layer" for status pages. Integrating interactive motion and
 ## ✍️ Writing
 I occasionally share my journey and technical insights on [DEV Community](https://dev.to/meetbhalodiya).
 
+* [I Let AI Write 80% of My Code for a Month. My Boss Gave Me a Raise](https://dev.to/meetbhalodiya/i-let-ai-write-80-of-my-code-for-a-month-my-boss-gave-me-a-raise-58pa)
 * [Don't be limited to a dev](https://dev.to/meetbhalodiya/how-not-to-stay-an-only-developer-person-4h8l)
 * [Understanding Time zone](https://dev.to/meetbhalodiya/understanding-time-zones-4dpc)
 * [How is it to become a self-taught developer](https://dev.to/meetbhalodiya/how-is-it-to-become-a-self-taught-developer-of6)
