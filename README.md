@@ -1,11 +1,15 @@
 # Hey, I'm Meet 👋
-I am a Front-end Developer from India dedicated to making the web a little more beautiful than it was yesterday. I’ve moved beyond just "learning tools" to building products and exploring the world of agentic development.
+I am a MERN stack Developer from India, making the web a little more beautiful than it was yesterday. I’ve moved beyond just "learning tools" to building products and exploring the world of agentic development.
 
 ## 🚀 Projects & Products
 
 ### [CalcSuite](https://calcsuite.in)
+Know if your career is AI-resilient before the market decides for you.. 
+*Forget the past, cluttered web utilities.*
+
+### [Job Security Meter](https://jobsecuritymeter.com)
 An open-source suite of high-utility online calculators designed for speed and precision. 
-*Building the future of simple web utilities.*
+*Get the detailed road-map for next 6 months.*
 
 ### Statuscode (Coming Soon) 🦄
 A high-end "designer layer" for status pages. Integrating interactive motion and premium UI/UX into services like UptimeRobot and Status.io to make system monitoring look as good as the product itself.
