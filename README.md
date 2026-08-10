@@ -11,9 +11,6 @@ Know if your career is AI-resilient before the market decides for you..
 An open-source suite of high-utility online calculators designed for speed and precision. 
 *Get the detailed road-map for next 6 months.*
 
-### Statuscode (Coming Soon) 🦄
-A high-end "designer layer" for status pages. Integrating interactive motion and premium UI/UX into services like UptimeRobot and Status.io to make system monitoring look as good as the product itself.
-
 ## ✍️ Writing
 I occasionally share my journey and technical insights on [DEV Community](https://dev.to/meetbhalodiya).
 
